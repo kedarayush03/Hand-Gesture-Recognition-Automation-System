@@ -1,6 +1,3 @@
-Here is a README description based on the provided project details:
-
----
 
 # Human-Machine Interaction Using Arduino-Based Robot Car and Hand Gesture Recognition
 
